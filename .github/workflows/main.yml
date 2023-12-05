@@ -7,4 +7,4 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - run: |
-          jar cvf name.war * && ls
+          jar cvf heilong.war * && ls
